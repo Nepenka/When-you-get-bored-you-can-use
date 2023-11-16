@@ -1,0 +1,6 @@
+framework module Pods_When_you_get_bored_you_can_use {
+  umbrella header "Pods-When you get bored you can use-umbrella.h"
+
+  export *
+  module * { export * }
+}
